@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+login_logs.csv
+*.png
