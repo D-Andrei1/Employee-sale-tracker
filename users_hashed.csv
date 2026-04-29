@@ -1,0 +1,11 @@
+employee_id,first_name,last_name,email,username,password,department,job_title,phone,hire_date,role
+EMP001,Alice,Johnson,alice.johnson@company.com,alice.johnson,$2b$12$9v3k9AQ3/Fsor2TC0GN3gualvEzqenDk9G4bqjGmaM4n3LlOGT.WO,Engineering,Software Engineer,+44-7700-900001,2021-03-15,user
+EMP002,Bob,Smith,bob.smith@company.com,bob.smith,$2b$12$1FS11eGKUk4bITBJPrzuLu/ZWeHx1Tyadq4Nlb8vnrFMvUREXYcc6,Marketing,Marketing Manager,+44-7700-900002,2019-07-22,manager
+EMP003,Carol,Williams,carol.williams@company.com,carol.williams,$2b$12$8BXu5SY0N5i8PZRWZ1W6qO42ni3Z5DP6ZS.aGDMAkMOQ18MNK6GQu,HR,HR Specialist,+44-7700-900003,2020-11-01,user
+EMP004,David,Brown,david.brown@company.com,david.brown,$2b$12$GWH3dVcXhLQRThVD7ZmHXeJyumDT3SWB106thS72rnoC0.7mVGCki,Finance,Financial Analyst,+44-7700-900004,2022-01-10,user
+EMP005,Emma,Davis,emma.davis@company.com,emma.davis,$2b$12$fOHqwH3RV9XIbI3AUr5eEerA5o1yaTOPDikwxcFht5DB.VRRSfwty,Engineering,Senior Developer,+44-7700-900005,2018-05-30,manager
+EMP006,Frank,Miller,frank.miller@company.com,frank.miller,$2b$12$M.rNewfrfJJa8cREfAsMkOWxsU6Js6kFzcpPcyutethZLk1qb4pee,Operations,Operations Lead,+44-7700-900006,2017-09-14,manager
+EMP007,Grace,Wilson,grace.wilson@company.com,grace.wilson,$2b$12$rEb.jZKTY8TT.2h.7Xrn.O9oj.mybkzZhWBuwPQcfo25E1KcfWDEq,Engineering,QA Engineer,+44-7700-900007,2023-02-20,user
+EMP008,Henry,Moore,henry.moore@company.com,henry.moore,$2b$12$ENPSKTf0soCjg2RlJcAGzeKMOn.Rv5KYmgAuqmn7NEO/pFhB1TqzK,IT,IT Support,+44-7700-900008,2021-08-05,user
+EMP009,Isabel,Taylor,isabel.taylor@company.com,isabel.taylor,$2b$12$o9./xFH9EmEf.Tch8.Badu80AYwUgCtsODPkOaVqTwcSyg2lPLTkG,Marketing,Content Strategist,+44-7700-900009,2022-06-18,user
+EMP010,James,Anderson,james.anderson@company.com,james.anderson,$2b$12$VF4lNQx3ouzlMRhI4rVA2O4pI8hFoVYQBIvjiRMERFq0gd8tQ63Xu,Finance,Finance Director,+44-7700-900010,2015-04-12,admin
